@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "shiny.worker"]
+	path = shiny.worker
+	url = https://github.com/cran/shiny.worker
+	shallow = true
+	registered = true
 [submodule "todor"]
 	path = todor
 	url = https://github.com/dokato/todor
