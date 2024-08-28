@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "shiny.worker"]
-	path = shiny.worker
-	url = https://github.com/cran/shiny.worker
 [submodule "todor"]
 	path = todor
 	url = https://github.com/dokato/todor
